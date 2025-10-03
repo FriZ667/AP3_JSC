@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AP3_Journee_Sante/1.0.0": {
+        "runtime": {
+          "AP3_Journee_Sante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AP3_Journee_Sante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

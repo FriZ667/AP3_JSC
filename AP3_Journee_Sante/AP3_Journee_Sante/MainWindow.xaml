@@ -7,6 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button x:Name="btnjournee" Content="Gérer Journée" HorizontalAlignment="Left" Margin="69,375,0,0" VerticalAlignment="Top" Height="59" Width="134" FontFamily="Berlin Sans FB Demi" FontSize="18"/>
+        <Button x:Name="btnasso" Content="Gérer Association" HorizontalAlignment="Center" Margin="0,375,0,0" VerticalAlignment="Top" Height="59" Width="134" FontFamily="Berlin Sans FB Demi" FontSize="18" Click="btnasso_Click"/>
+        <Button x:Name="btnreponse" Content="Suivi de réponse" Margin="597,375,69,0" VerticalAlignment="Top" Height="59" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="69,188,69,101">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ScrollBar HorizontalAlignment="Left" Margin="747,188,0,0" VerticalAlignment="Top" Height="145" Width="24"/>
+        <Button Content="Supprimer Association" HorizontalAlignment="Left" Margin="597,37,0,0" VerticalAlignment="Top" Height="46" Width="134"/>
+        <Button Content="Créer Association" HorizontalAlignment="Left" Margin="69,37,0,0" VerticalAlignment="Top" Height="46" Width="134"/>
 
     </Grid>
 </Window>

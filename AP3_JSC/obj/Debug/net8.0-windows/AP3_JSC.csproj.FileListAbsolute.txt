@@ -1,4 +1,0 @@
-C:\Users\frise\source\repos\AP3_JSC\AP3_JSC\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\frise\source\repos\AP3_JSC\AP3_JSC\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\frise\source\repos\AP3_JSC\AP3_JSC\obj\Debug\net8.0-windows\AP3_JSC_MarkupCompile.cache
-C:\Users\frise\source\repos\AP3_JSC\AP3_JSC\obj\Debug\net8.0-windows\AP3_JSC_MarkupCompile.lref

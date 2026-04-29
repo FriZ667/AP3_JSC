@@ -1,0 +1,80 @@
+﻿<Page x:Class="AP3_Journee_Sante.PageReponse"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AP3_Journee_Sante"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageReponse">
+
+    <Grid Background="White">
+
+        <Frame x:Name="ChangeAjouterRepPage" NavigationUIVisibility="Hidden" Navigated="ChangeAjouterRepPage_Navigated" />
+
+        <Label Content="Suivi de réponse" HorizontalAlignment="Center" Margin="0,82,0,0" VerticalAlignment="Top"/>
+        <ListView x:Name="lvreponse" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="69,150,69,150" SelectionChanged="ListView_SelectionChanged" HorizontalAlignment="Stretch" AlternationCount="2">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="{x:Type ListViewItem}">
+
+                    <Setter Property="Background" Value="White" />
+                    <Setter Property="Foreground" Value="Black"/>
+                    <Style.Triggers>
+                        <Trigger Property="ItemsControl.AlternationIndex" Value="1">
+                            <Setter Property="Background" Value="LightGray" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Reponse Information">
+
+                    <!-- CORRIGÉ : StructureAsso (au lieu de Asso) -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=StructureAsso}" Header="Association" Width="100"/>
+
+                    <!-- CORRIGÉ : CoordonnéesAsso (au lieu de Numero) -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=CoordonneesAsso}" Header="Coordonnées Asso" Width="150"/>
+
+                    <!-- CORRIGÉ : MembresAsso (au lieu de Nom) -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=MembresAsso}" Header="Nom/Prénom Intervenants" Width="250"/>
+
+                    <!-- OK -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Description}" Header="Description intervention" Width="150"/>
+
+                    <!-- OK -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Titre}" Header="Titre intervention" Width="100"/>
+
+                    <!-- CORRIGÉ : SalleBesoin (au lieu de Besoin) -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SalleBesoin}" Header="Besoin de la salle" Width="100"/>
+
+                    <!-- CORRIGÉ : SalleDisposition (au lieu de Disposition) -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SalleDisposition}" Header="Disposition de la salle" Width="100"/>
+
+                    <!-- OK -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Pause}" Header="Pause (Nb)" Width="80"/>
+
+                    <!-- OK -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=TypePause}" Header="Type de la pause" Width="100"/>
+
+                    <!-- OK -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Repas}" Header="Repas (Nb)" Width="80"/>
+
+                    <!-- CORRIGÉ : Materiel (au lieu de BesoinSup) -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Materiel}" Header="Matériel/Besoin Sup." Width="120"/>
+
+                    <!-- OK -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Cout}" Header="Coût (€)" Width="80"/>
+
+                    <!-- OK -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Commentaire}" Header="Commentaire" Width="150"/>
+
+                    <!-- AJOUT UTILE : Afficher la date -->
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=DateIntervention, StringFormat='dd/MM/yyyy'}" Header="Date Intervention" Width="120"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ComboBox x:Name="cbreponse" HorizontalAlignment="Center" Margin="0,123,0,0" VerticalAlignment="Top" Width="144"/>
+        <Button x:Name="btnreponse" Content="Ajouter une réponse" HorizontalAlignment="Left" Margin="69,37,0,0" VerticalAlignment="Top" Height="46" Width="134" Click="btnedition_Click" Panel.ZIndex="1"/>
+    </Grid>
+</Page>

@@ -1,0 +1,23 @@
+﻿<Page x:Class="AP3_Journee_Sante.PageAvis"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AP3_Journee_Sante"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageAvis">
+
+    <Grid Background="White">
+        <Label Content="Avis de la journée du" HorizontalAlignment="Center" Margin="0,42,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Arial Black"/>
+        <ListView x:Name="lvavis" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="69,188,69,101">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Avis Information">
+                    <GridViewColumn x:Name="idasso" DisplayMemberBinding="{Binding Nom}" Header="Nom Association" Width="150"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Commentaire}" Header="Commentaire" Width="502"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Page>

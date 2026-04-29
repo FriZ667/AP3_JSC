@@ -1,0 +1,48 @@
+﻿<Page x:Class="AP3_Journee_Sante.PageCom"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AP3_Journee_Sante"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageCom">
+
+    <Grid Background="White">
+        <Label Content="Ajouter un commentaire" HorizontalAlignment="Center" Margin="0,42,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Arial Black"/>
+        <Label Content="Voir les commentaires" HorizontalAlignment="Center" Margin="0,159,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Arial Black"/>
+        <ListView HorizontalAlignment="Left" Height="148" Margin="42,199,0,0" VerticalAlignment="Top" Width="336" d:ItemsSource="{d:SampleData ItemCount=5}">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="{x:Type ListViewItem}">
+
+                    <Setter Property="Background" Value="White" />
+
+                    <Style.Triggers>
+                        <Trigger Property="ItemsControl.AlternationIndex" Value="1">
+                            <Setter Property="Background" Value="LightGray" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Edition Information">
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Date}" Header="Date" Width="50"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Commentaire}" Header="Commentaire" Width="350"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Commentaire sur l'association :" HorizontalAlignment="Left" Margin="127,106,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="tbcomasso" HorizontalAlignment="Left" Margin="399,116,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="144"/>
+        <Label Content="Rechercher :" HorizontalAlignment="Left" Margin="400,0,0,0" VerticalAlignment="Center"/>
+        <TextBox x:Name="tbrechercheasso" HorizontalAlignment="Left" Margin="507,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="269"/>
+        <TextBox x:Name="tbModifCom" HorizontalAlignment="Left" Margin="507,257,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="162"/>
+        <Label Content="Modifier :" HorizontalAlignment="Left" Margin="400,253,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnmodifcom" Content="Valider" HorizontalAlignment="Left" Margin="688,253,0,0" VerticalAlignment="Top" Height="26" Width="88" BorderThickness="1,1,1,1" Background="#FF82F94F" Foreground="White" BorderBrush="White"/>
+        <Button x:Name="btnajoutercom" Content="Ajouter" HorizontalAlignment="Left" Margin="568,114,0,0" VerticalAlignment="Top" Height="26" Width="88" BorderThickness="1,1,1,1" Background="#FF82F94F" Foreground="White" BorderBrush="White"/>
+        <Button x:Name="btnsupcom" Content="Supprimer" HorizontalAlignment="Left" Margin="437,311,0,0" VerticalAlignment="Top" Height="34" Width="106" BorderThickness="1,1,1,1" Background="Red" Foreground="White" BorderBrush="White" Click="btnsupcom_Click"/>
+        <Button x:Name="btnconfouicom" Content="Oui" HorizontalAlignment="Left" Margin="612,318,0,0" VerticalAlignment="Top" Height="29" Width="53" BorderThickness="1,1,1,1" Background="Red" Foreground="White" BorderBrush="White" Visibility="Collapsed" Click="btnconfouicom_Click"/>
+        <Button x:Name="btnconfnoncom" Content="Non" HorizontalAlignment="Left" Margin="696,318,0,0" VerticalAlignment="Top" Height="29" Width="53" BorderThickness="1,1,1,1" Foreground="White" BorderBrush="White" Visibility="Collapsed" Click="btnconfnoncom_Click"/>
+        <Label x:Name="lblsupcom" Content="Êtes vous sur de supprimer ?" HorizontalAlignment="Left" Margin="601,290,0,0" VerticalAlignment="Top" Visibility="Collapsed"/>
+
+    </Grid>
+</Page>

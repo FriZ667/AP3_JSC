@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\ado\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\ado\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pagejournee.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pagejournee.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pageinvitation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pageinvitation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\ado\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\ado\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pagejournee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pagejournee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pagecom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pagecom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pageajouterrep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pageajouterrep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pagecom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pagecom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pagecreeasso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pagecreeasso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pagemodifier.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pagemodifier.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\classe\\associations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\classe\\associations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pageasso.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pageasso.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\pageasso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\pageasso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|c:\\users\\arthu\\downloads\\version_final_v1\\ap3_journee_sante (2)\\ap3_journee_sante final\\ap3_journee_sante\\ado\\adoassociations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5490A51-419E-467C-806F-D57FA176FAE7}|AP3_Journee_Sante\\AP3_Journee_Sante.csproj|solutionrelative:ap3_journee_sante\\ado\\adoassociations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 263,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageCom.xaml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageCom.xaml",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageCom.xaml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageCom.xaml",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageCom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T08:02:47.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageCom.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageCom.xaml.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageCom.xaml.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageCom.xaml.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageCom.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:05:55.67Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageAjouterRep.xaml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageAjouterRep.xaml",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageAjouterRep.xaml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageAjouterRep.xaml",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageAjouterRep.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T10:42:49.737Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\ADO\\Connexion.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\ADO\\Connexion.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\ADO\\Connexion.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\ADO\\Connexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:48:33.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ADO.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\ADO\\ADO.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\ADO\\ADO.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\ADO\\ADO.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\ADO\\ADO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:47:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageJournee.xaml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageJournee.xaml",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageJournee.xaml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageJournee.xaml",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageJournee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-29T12:45:14.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageInvitation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageInvitation.xaml.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageInvitation.xaml.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageInvitation.xaml.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageInvitation.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:23:24.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageJournee.xaml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageJournee.xaml",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageJournee.xaml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageJournee.xaml",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageJournee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-29T12:22:36.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageCreeAsso.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageCreeAsso.xaml.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageCreeAsso.xaml.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageCreeAsso.xaml.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageCreeAsso.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:17:56.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageModifier.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageModifier.xaml.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageModifier.xaml.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageModifier.xaml.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageModifier.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:14:24.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Associations.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\CLASSE\\Associations.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\CLASSE\\Associations.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\CLASSE\\Associations.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\CLASSE\\Associations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:44:30.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageAsso.xaml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageAsso.xaml",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageAsso.xaml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageAsso.xaml",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageAsso.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-29T08:04:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PageAsso.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageAsso.xaml.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\PageAsso.xaml.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\PageAsso.xaml.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\PageAsso.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:16:11.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdoAssociations.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\ADO\\AdoAssociations.cs",
+              "RelativeDocumentMoniker": "AP3_Journee_Sante\\ADO\\AdoAssociations.cs",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\version_final_V1\\AP3_Journee_Sante (2)\\AP3_Journee_Sante Final\\AP3_Journee_Sante\\ADO\\AdoAssociations.cs",
+              "RelativeToolTip": "AP3_Journee_Sante\\ADO\\AdoAssociations.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:14:17.63Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

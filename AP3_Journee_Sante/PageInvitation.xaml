@@ -1,0 +1,28 @@
+﻿<Page x:Class="AP3_Journee_Sante.PageInvitation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AP3_Journee_Sante"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageInvitation">
+
+    <Grid Background="White">
+        <Label Content="Envoyer mail d'invitation" HorizontalAlignment="Center" Margin="0,42,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Arial Black"/>
+        <Label Content="Choisir l'édition de l'invitation :" HorizontalAlignment="Left" Margin="145,109,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Choisir les associations :" HorizontalAlignment="Left" Margin="199,174,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Button x:Name="btntoutselectioninvite" Content="Tout selectionner" HorizontalAlignment="Left" Margin="243,229,0,0" VerticalAlignment="Top" Height="30" Width="112" BorderThickness="1,1,1,1"/>
+        <Button x:Name="btnenvoyerinvite" Content="ENVOYER" HorizontalAlignment="Left" Margin="224,296,0,0" VerticalAlignment="Top" Height="48" Width="150" BorderThickness="1,1,1,1" Click="Button_Click" FontSize="18" Background="#FF82F94F" Foreground="White" BorderBrush="White"/>
+        <ListView x:Name="lvinvite" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="461,183,195,96">
+            <ListView.View>
+                <GridView>
+
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=NomAsso}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ComboBox x:Name="cbinvite" DisplayMemberPath="Date" HorizontalAlignment="Left" Margin="461,117,0,0" VerticalAlignment="Top" Width="144"/>
+
+    </Grid>
+</Page>

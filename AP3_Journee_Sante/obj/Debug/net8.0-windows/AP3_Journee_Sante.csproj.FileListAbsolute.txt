@@ -1,0 +1,444 @@
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.AssemblyReference.cache
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.cache
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.lref
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.g.resources
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\refint\AP3_Journee_Sante.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.exe
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.deps.json
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.runtimeconfig.json
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.AssemblyReference.cache
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.cache
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.lref
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.baml
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.g.resources
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.AssemblyInfoInputs.cache
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.AssemblyInfo.cs
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.CoreCompileInputs.cache
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Jour.9B0AF7BE.Up2Date
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\refint\AP3_Journee_Sante.dll
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.genruntimeconfig.cache
+C:\Users\frise\Desktop\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\ref\AP3_Journee_Sante.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.exe
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.deps.json
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.runtimeconfig.json
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.AssemblyReference.cache
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.cache
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.lref
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.baml
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.g.resources
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.AssemblyInfoInputs.cache
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.AssemblyInfo.cs
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.CoreCompileInputs.cache
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Jour.9B0AF7BE.Up2Date
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\refint\AP3_Journee_Sante.dll
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.genruntimeconfig.cache
+C:\Users\frise\Downloads\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\ref\AP3_Journee_Sante.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.exe
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.deps.json
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.runtimeconfig.json
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.AssemblyReference.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.lref
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.g.resources
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.AssemblyInfoInputs.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.AssemblyInfo.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Jour.9B0AF7BE.Up2Date
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\refint\AP3_Journee_Sante.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.genruntimeconfig.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante\AP3_Journee_Sante\obj\Debug\net8.0-windows\ref\AP3_Journee_Sante.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.exe
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.deps.json
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.runtimeconfig.json
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.AssemblyReference.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageListeMembres.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante_MarkupCompile.lref
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\App.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAjouterRep.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAsso.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageAvis.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCom.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreeAsso.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageCreerMembre.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageEdition.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageForm.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageInvitation.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageJournee.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageLier.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifEdition.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifier.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageModifierMembre.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\PageReponse.baml
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.g.resources
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.AssemblyInfoInputs.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.AssemblyInfo.cs
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Jour.9B0AF7BE.Up2Date
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\refint\AP3_Journee_Sante.dll
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.pdb
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\AP3_Journee_Sante.genruntimeconfig.cache
+C:\Users\arthu\Downloads\version_final_V1\AP3_Journee_Sante (2)\AP3_Journee_Sante Final\AP3_Journee_Sante\obj\Debug\net8.0-windows\ref\AP3_Journee_Sante.dll

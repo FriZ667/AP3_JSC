@@ -1,0 +1,65 @@
+﻿<Window x:Class="AP3_Journee_Sante.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- CONTENU -->
+        <Grid Grid.Row="0">
+
+            <Frame x:Name="ChangeAssoPage" NavigationUIVisibility="Hidden"/>
+            <Frame x:Name="ChangeReponsePage" NavigationUIVisibility="Hidden"/>
+            <Frame x:Name="ChangeJourneePage" NavigationUIVisibility="Hidden"/>
+            <Frame x:Name="ChangeMembrePage" NavigationUIVisibility="Hidden"/>
+
+            <Label x:Name="welcome" Content="Bienvenue"
+                   HorizontalAlignment="Center" VerticalAlignment="Top"
+                   FontSize="36" Margin="0,126,0,0"/>
+
+            <Label x:Name="intro"
+                   Content="Ce projet vous permet de gérer les journées Santé et Citoyenneté"
+                   HorizontalAlignment="Center" Margin="0,236,0,0" VerticalAlignment="Top"/>
+
+            <Label x:Name="video"
+                   Content="Tuto : https://youtu.be/-Lu8k7ABWBA"
+                   HorizontalAlignment="Center" Margin="0,276,0,0" VerticalAlignment="Top"/>
+
+            <Image x:Name="logo"
+                   HorizontalAlignment="Left"
+                   Height="121"
+                   VerticalAlignment="Top"
+                   Width="342"
+                   Source="/min_1724998764_LOGO MT ROLAND 2021 noir et blanc vecto.png"/>
+
+        </Grid>
+
+        <!-- BOUTONS -->
+        <StackPanel Grid.Row="1"
+                    Orientation="Horizontal"
+                    Margin="10,10,17,10">
+
+            <Button Content="Gérer les journées" Width="180" Height="40"
+                    Click="btnjournee_Click"/>
+
+            <Button Content="Gérer les associations" Width="200" Height="40"
+                    Margin="20,0,0,0"
+                    Click="btnasso_Click"/>
+
+            <Button Content="Suivi des réponses" Width="180" Height="40"
+                    Margin="20,0,0,0"
+                    Click="btnreponse_Click"/>
+
+            <Button Content="Gérer les membres" Width="160" Height="40"
+                    Margin="20,0,0,0"
+                    Click="btnmembre_Click"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

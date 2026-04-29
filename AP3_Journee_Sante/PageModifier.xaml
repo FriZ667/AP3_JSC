@@ -1,0 +1,114 @@
+﻿<Page x:Class="AP3_Journee_Sante.PageModifier"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AP3_Journee_Sante"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageModifier">
+
+    <Grid Background="White">
+
+        <!-- TITRE -->
+        <Label Content="Modifier une association"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Top"
+               Margin="0,10,0,0"
+               FontSize="24"
+               FontFamily="Arial Black"/>
+
+        <!-- FORMULAIRE CENTRÉ -->
+        <Grid HorizontalAlignment="Center"
+              VerticalAlignment="Top"
+              Margin="0,73,0,0">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- NOM -->
+            <Label Grid.Row="0" Grid.Column="0"
+                   Content="Nom de l'association :" FontSize="18"/>
+            <TextBox x:Name="tbmodifnomasso"
+                     Grid.Row="0" Grid.Column="2"
+                     Width="180"/>
+
+            <!-- MAIL -->
+            <Label Grid.Row="1" Grid.Column="0"
+                   Content="Mail de l'association :" FontSize="18" Margin="0,10,0,0"/>
+            <TextBox x:Name="tbmodifmailasso"
+                     Grid.Row="1" Grid.Column="2"
+                     Width="180" Margin="0,10,0,0"/>
+
+            <!-- TEL -->
+            <Label Grid.Row="2" Grid.Column="0"
+                   Content="Téléphone de l'association :" FontSize="18" Margin="0,10,0,0"/>
+            <TextBox x:Name="tbmodiftelasso"
+                     Grid.Row="2" Grid.Column="2"
+                     Width="180" Margin="0,10,0,0"
+                     TextChanged="tbmodiftelasso_TextChanged"/>
+
+            <!-- IMAGE ACTUELLE -->
+            <Label Grid.Row="3" Grid.Column="0"
+                   Content="Image actuelle :" FontSize="18" Margin="0,15,0,0"/>
+            <Image x:Name="imgActuelle"
+                   Grid.Row="3" Grid.Column="2"
+                   Width="120" Height="70"
+                   Margin="9,7,71,8"
+                   Stretch="Uniform"/>
+            <Label x:Name="lblmodifnomimage2"
+                   Grid.Row="3"
+                   Content="Nom de l'image actuelle"
+                   FontSize="11"
+                   Margin="22,42,72,112" Grid.RowSpan="2"/>
+
+            <!-- NOUVELLE IMAGE -->
+            <Label Grid.Row="4" Grid.Column="0"
+                   Content="Nouvelle image :" FontSize="18" Margin="0,15,0,0"/>
+            <Button x:Name="btnmodifimageasso"
+                    Grid.Row="3" Grid.Column="4"
+                    Content="Choisir l'image" Height="30"
+                    Margin="27,22,34,33"
+                    Click="btnmodifimageasso_Click"/>
+            <Label x:Name="lblmodifnomimage"
+                   Grid.Row="4"
+                   Content="Nom de la nouvelle image"
+                   FontSize="11"
+                   Margin="20,45,69,-30" Grid.RowSpan="2"/>
+            <Image x:Name="imgNouvelle"
+                   Grid.Row="4" Grid.Column="2"
+                   Width="120"
+                   Margin="9,14,71,72"
+                   Stretch="Uniform"/>
+
+            <!-- BOUTON MODIFIER -->
+            <Button x:Name="btnmodifasso"
+                    Grid.Row="4"
+                    Content="Modifier"
+                    Width="80"
+                    FontSize="18"
+                    Background="#FF82F94F"
+                    Foreground="White"
+                    BorderBrush="White"
+                    Margin="27,10,0,101"
+                    HorizontalAlignment="Left"
+                    Click="btnmodifasso_Click" Grid.Column="4"/>
+
+        </Grid>
+
+    </Grid>
+</Page>

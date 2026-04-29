@@ -1,0 +1,60 @@
+﻿<Page x:Class="AP3_Journee_Sante.PageJournee"
+
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+
+      xmlns:local="clr-namespace:AP3_Journee_Sante"
+
+      mc:Ignorable="d"
+
+      d:DesignHeight="450" d:DesignWidth="800"
+
+      Title="PageJournee">
+
+	<Grid Background="white">
+
+		<Frame x:Name="ChangeInvitationPage" NavigationUIVisibility="Hidden" Navigated="ChangeInvitationPage_Navigated" />
+		<Frame x:Name="ChangeFormPage" NavigationUIVisibility="Hidden" Navigated="ChangeFormPage_Navigated" />
+		<Frame x:Name="ChangeEditionPage" NavigationUIVisibility="Hidden" Navigated="ChangeEditionPage_Navigated" />
+		<Frame x:Name="ChangeAvisPage" NavigationUIVisibility="Hidden" Navigated="ChangeAvisPage_Navigated" />
+		<Frame x:Name="ChangeModifEditionPage" NavigationUIVisibility="Hidden" Navigated="ChangeModifEditionPage_Navigated" />
+
+		<ListView x:Name="lvjournee" AlternationCount="2" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="69,188,69,90" SelectionChanged="lvjournee_SelectionChanged" Panel.ZIndex="8">
+			<ListView.ItemContainerStyle>
+				<Style TargetType="{x:Type ListViewItem}">
+
+					<Setter Property="Background" Value="White" />
+
+					<Style.Triggers>
+						<Trigger Property="ItemsControl.AlternationIndex" Value="1">
+							<Setter Property="Background" Value="LightGray" />
+						</Trigger>
+					</Style.Triggers>
+				</Style>
+			</ListView.ItemContainerStyle>
+			<ListView.View>
+				<GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Edition Information">
+					<GridViewColumn x:Name="idjournee" DisplayMemberBinding="{Binding Path=Id}" Header="ID" Width="50"/>
+					<GridViewColumn DisplayMemberBinding="{Binding Path=Date}" Header="Date Journée" Width="250"/>
+					<GridViewColumn DisplayMemberBinding="{Binding Path=Lieu}" Header="Lieu Journée" Width="350"/>
+				</GridView>
+			</ListView.View>
+		</ListView>
+
+		<Button x:Name="btnform" Content="Envoyer Formulaire" HorizontalAlignment="Left" Margin="597,37,0,0" VerticalAlignment="Top" Height="46" Width="134" Click="btnform_Click" Panel.ZIndex="3"/>
+		<Button x:Name="btnedition" Content="Créer Edition" HorizontalAlignment="Left" Margin="69,37,0,0" VerticalAlignment="Top" Height="46" Width="134" Click="btnedition_Click" Panel.ZIndex="1"/>
+		<Button x:Name="btninvitation" Content="Envoyer Invitation" HorizontalAlignment="Center" Margin="0,37,0,0" VerticalAlignment="Top" Height="46" Width="134" Click="btninvitation_Click" Panel.ZIndex="2"/>
+		<Button x:Name="btnModifEdition" Content="Modifier Edition" HorizontalAlignment="Left" Margin="69,111,0,0" VerticalAlignment="Top" Height="46" Width="134" Click="btnModifEdition_Click" Visibility="Collapsed" Panel.ZIndex="4"/>
+		<Button x:Name="btnSupEdition" Content="Supprimer Edition" HorizontalAlignment="Center" Margin="0,111,0,0" Background="Red" Foreground="White" VerticalAlignment="Top" Height="46" Width="134" Click="btnSupEdition_Click" BorderBrush="#FF707070" Visibility="Collapsed" Panel.ZIndex="5"/>
+		<Button x:Name="btnConfSupOui" Content="Oui" HorizontalAlignment="Left" Margin="597,142,0,0" VerticalAlignment="Top" Height="19" Width="55" Background="Red" Foreground="White" Visibility="Collapsed" Click="btnConfSupOui_Click" Panel.ZIndex="6"/>
+		<Button x:Name="btnConfSupNon" Content="Non" HorizontalAlignment="Left" Margin="676,142,0,0" VerticalAlignment="Top" Height="19" Width="55" Visibility="Collapsed" Panel.ZIndex="7"/>
+		<Label x:Name="lblsupjournee" Content="Êtes vous sur de supprimer ?" HorizontalAlignment="Left" Margin="587,105,0,0" VerticalAlignment="Top" Visibility="Collapsed"/>
+
+	</Grid>
+</Page>
+
